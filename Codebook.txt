@@ -1,0 +1,71 @@
+Codebook tidy_data.txt (created from run_analysis.R)
+Column name; value type; description (columns in file separated by comma's)
+
+subject; numeric; ID of the test person
+activity; character; Sort of activity regarding the measurement
+1 tBodyAcc-mean()-X; double ; mean of the different values measured for this activity on the subject
+2 tBodyAcc-mean()-Y; double ; mean of the different values measured for this activity on the subject
+3 tBodyAcc-mean()-Z; double ; mean of the different values measured for this activity on the subject
+4 tBodyAcc-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+5 tBodyAcc-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+6 tBodyAcc-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+41 tGravityAcc-mean()-X ; double ; mean of the different values measured for this activity on the subject
+42 tGravityAcc-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+43 tGravityAcc-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+44 tGravityAcc-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+45 tGravityAcc-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+46 tGravityAcc-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+81 tBodyAccJerk-mean()-X ; double ; mean of the different values measured for this activity on the subject       
+82 tBodyAccJerk-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+83 tBodyAccJerk-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+84 tBodyAccJerk-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+85 tBodyAccJerk-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+86 tBodyAccJerk-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+121 tBodyGyro-mean()-X ; double ; mean of the different values measured for this activity on the subject
+122 tBodyGyro-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+123 tBodyGyro-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+124 tBodyGyro-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+125 tBodyGyro-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+126 tBodyGyro-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+161 tBodyGyroJerk-mean()-X ; double ; mean of the different values measured for this activity on the subject
+162 tBodyGyroJerk-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+163 tBodyGyroJerk-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+164 tBodyGyroJerk-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+165 tBodyGyroJerk-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+166 tBodyGyroJerk-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+201 tBodyAccMag-mean() ; double ; mean of the different values measured for this activity on the subject
+202 tBodyAccMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+214 tGravityAccMag-mean() ; double ; mean of the different values measured for this activity on the subject
+215 tGravityAccMag-std() ; double ; mean of the different values measured for this activity on the subject
+227 tBodyAccJerkMag-mean() ; double ; mean of the different values measured for this activity on the subject
+228 tBodyAccJerkMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+240 tBodyGyroMag-mean() ; double ; mean of the different values measured for this activity on the subject
+241 tBodyGyroMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+253 tBodyGyroJerkMag-mean() ; double ; mean of the different values measured for this activity on the subject
+254 tBodyGyroJerkMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+266 fBodyAcc-mean()-X ; double ; mean of the different values measured for this activity on the subject
+267 fBodyAcc-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+268 fBodyAcc-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+269 fBodyAcc-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+270 fBodyAcc-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+271 fBodyAcc-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+345 fBodyAccJerk-mean()-X ; double ; mean of the different values measured for this activity on the subject
+346 fBodyAccJerk-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+347 fBodyAccJerk-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+348 fBodyAccJerk-std()-X; double ; mean of the different standard deviations measured for this activity on the subject
+349 fBodyAccJerk-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+350 fBodyAccJerk-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+424 fBodyGyro-mean()-X ; double ; mean of the different values measured for this activity on the subject
+425 fBodyGyro-mean()-Y ; double ; mean of the different values measured for this activity on the subject
+426 fBodyGyro-mean()-Z ; double ; mean of the different values measured for this activity on the subject
+427 fBodyGyro-std()-X ; double ; mean of the different values measured for this activity on the subject
+428 fBodyGyro-std()-Y; double ; mean of the different standard deviations measured for this activity on the subject
+429 fBodyGyro-std()-Z; double ; mean of the different standard deviations measured for this activity on the subject
+503 fBodyAccMag-mean() ; double ; mean of the different values measured for this activity on the subject
+504 fBodyAccMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+516 fBodyBodyAccJerkMag-mean() ; double ; mean of the different values measured for this activity on the subject
+517 fBodyBodyAccJerkMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+529 fBodyBodyGyroMag-mean() ; double ; mean of the different values measured for this activity on the subject
+530 fBodyBodyGyroMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
+542 fBodyBodyGyroJerkMag-mean() ; double ; mean of the different values measured for this activity on the subject
+543 fBodyBodyGyroJerkMag-std(); double ; mean of the different standard deviations measured for this activity on the subject
